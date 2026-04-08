@@ -8,6 +8,6 @@ public class App {
 
     public static void main(String[] args) {
         App obj = new App();
-        System.out.println("Result = " + obj.add(5, 3));
+        System.out.println("Result = " + obj.add(10, 2));
     }
 }
